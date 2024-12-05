@@ -1,9 +1,9 @@
 # Form Statistics
 ![csharp](https://github.com/user-attachments/assets/68832fb9-9cc3-4b77-a1f2-66eef14d842d)
 
-● **9. Video** :
+● **9. Video** : Bu eğitim videosunda SQL' de database oluşturmayı, tablo oluşturmayı, bazı SQL sorgularını öğrenmiş oldum. Visual stduio kısmında C# kodumuza Database' mizi nasıl bağlamam gerektiğini, sınıf, nesne ve property kelimelerini öğrendim.SQLConnection SQLCommand sınıflarını ilk defa bu eğitimde ne işe yaradığını öğrenmiş oldum
 
-● **10. Video** :
+● **10. Video** : Bu eğitim videosunda C# projemizden SQL'de oluşturduğumuz tablolara listeleme ekleme güncelleme işlemlerini öğrendim.
 
 ● **11. Video** :
 
