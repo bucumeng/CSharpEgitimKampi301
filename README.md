@@ -18,10 +18,10 @@ Class -> Table , Property-> Cloumn ilişkisini öğrenmiş oldum.
 
 ● **14. Video** : Forms yapısı oluşturmayı, ORM'nin nasıl bir teknik olduğunu öğrenmiş oldum.Hazır bir Database'i kodumuzla bağlantı oluşturmayı öğrendim.Bu sayede SQL de olan Database'i Model diyagramında görmüş oldum.
 
-● **15. Video** :
+● **15. Video** :Form ekranı ekleyerek örnek bir rehber projesi yaptık.Formu istediğimiz boyutlandırma, font ve renk işlemlerini öğrenmiş oldum. Form üzerinde istediğimiz işlemleri yapabilmek için metotları kullandık.MessageBox ile ekrana işleme göre mesaj verme işlemimi öğrendim.Ekleme silme güncelleme ve ıd'ye göre getirme işlemlerini form üzerinden nasıl gerçekleştireceğini öğrenmiş oldum.
 
-● **16. Video** :
+● **16. Video** : Başka bir form ekranı oluşturarak, bu projede Location işlemlerini uygulamalı olarak gerçekleştirdik.FullName'i almak için nesne oluşturmayı öğrenmiş oldum.cmbGuide.DisplayMemberdan FullName'i atayarak isim soyisim bilgisini forma yazdırmış olduk.
 
-● **17. Video** :
+● **17. Video** : Count(), Sum(),Avarage(),Max(),FirstOrDefault() ve Where() metotlarının nasıl kullanıldığını öğrenmiş oldum. Where() ile hangi verileri istediğimizi belirledik, Select() ile istediğimiz değerleri getirdik.
 
 
