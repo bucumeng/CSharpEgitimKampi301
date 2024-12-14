@@ -58,12 +58,18 @@
     <Compile Include="Abstract\IOrderDal.cs" />
     <Compile Include="Abstract\IProductDal.cs" />
     <Compile Include="Context\KampContext.cs" />
+    <Compile Include="EntitiyFrameWork\EfAdminDal.cs" />
+    <Compile Include="EntitiyFrameWork\EfCategoryDal.cs" />
+    <Compile Include="EntitiyFrameWork\EfCustomerDal.cs" />
+    <Compile Include="EntitiyFrameWork\EfOrderDal.cs" />
+    <Compile Include="EntitiyFrameWork\EfProductDal.cs" />
     <Compile Include="Migrations\202411241126518_mig1.cs" />
     <Compile Include="Migrations\202411241126518_mig1.Designer.cs">
       <DependentUpon>202411241126518_mig1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\GenericRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CSharpEgitimKampi301.EntityLayer\CSharpEgitimKampi301.EntityLayer.csproj">
@@ -75,10 +81,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EntitiyFrameWork\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202411241126518_mig1.resx">
       <DependentUpon>202411241126518_mig1.cs</DependentUpon>
