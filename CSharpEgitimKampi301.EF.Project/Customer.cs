@@ -14,6 +14,8 @@ namespace CSharpEgitimKampi301.EF.Project
     
     public partial class Customer
     {
+        public object CustomerCity;
+
         public int CustomerId { get; set; }
         public string CustomerName { get; set; }
         public string CustomerSurname { get; set; }
