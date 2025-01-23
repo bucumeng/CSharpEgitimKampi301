@@ -4,8 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
-namespace CSharpEgitimKampi301.EF.Project
+namespace CSharpEgitimKampi301.PresentationLayer
 {
     internal static class Program
     {
@@ -17,9 +16,7 @@ namespace CSharpEgitimKampi301.EF.Project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmProduct()); // FrmCategory yerine FormCategory'yi başlatıyoruz.
         }
     }
-
-    
 }

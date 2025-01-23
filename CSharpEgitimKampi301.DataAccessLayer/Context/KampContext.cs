@@ -1,4 +1,4 @@
-﻿using CSharpEgitimKampi301.EntityLayer.Concrete;
+﻿ using CSharpEgitimKampi301.EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
